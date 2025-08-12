@@ -1,0 +1,46 @@
+{
+    "students": {
+        "2201": {
+            "name": "Arifuzzaman",
+            "age": 25,
+            "address": "Kanchan, Rupganj",
+            "student_id": "2201",
+            "grades": {
+                "Data Mining ": "A+"
+            },
+            "courses": [
+                "Data Mining "
+            ]
+        },
+        "2202": {
+            "name": "Fahmida Akhter Orpi",
+            "age": 24,
+            "address": "Netrokona, Mymensingh",
+            "student_id": "2202",
+            "grades": {
+                "Bangladesh Studies ": "A+"
+            },
+            "courses": [
+                "Bangladesh Studies "
+            ]
+        }
+    },
+    "courses": {
+        "CSE 435": {
+            "course_name": "Data Mining ",
+            "course_code": "CSE 435",
+            "instructor": "Atik Sir",
+            "students": [
+                "2201"
+            ]
+        },
+        "GED 411": {
+            "course_name": "Bangladesh Studies ",
+            "course_code": "GED 411",
+            "instructor": "Sabnam Maam",
+            "students": [
+                "2202"
+            ]
+        }
+    }
+}
